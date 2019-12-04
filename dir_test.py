@@ -10,6 +10,7 @@ from __future__ import print_function
 
 import os
 
+# Python2 or Python3
 try:
     input = raw_input
 except NameError:
